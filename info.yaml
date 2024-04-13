@@ -24,14 +24,14 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
-  uo[2]: ""
-  uo[3]: ""
-  uo[4]: ""
-  uo[5]: ""
-  uo[6]: ""
-  uo[7]: ""
+  uo[0]: "7 segment pin 1"
+  uo[1]: "7 segment pin 2"
+  uo[2]: "7 segment pin 3"
+  uo[3]: "7 segment pin 4"
+  uo[4]: "7 segment pin 5"
+  uo[5]: "7 segment pin 6"
+  uo[6]: "7 segment pin 7"
+  uo[7]: "7 segment pin 8"
 
   # Bidirectional pins
   uio[0]: ""
