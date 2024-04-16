@@ -15,6 +15,7 @@ This circuit can drive a charlieplexed hexagonal LED matrix. This matrix has col
 
 ## How to test
 
+- Connect the display shown under "External hardware" (or if you want to see if the circuit is functioning: connect a few LEDs between the display output pins randomly)
 - Set the Display Enable pin low. 
 - The Data pin is now sampled on each rising clock edge. The data shall be entered column wise, bottom to top, right to left (in the schematic below, "1" represents the first bit entered).
   The following data may make you smile: 1001010100001010100
